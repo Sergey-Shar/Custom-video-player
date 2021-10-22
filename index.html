@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom Player</title>
+  <link rel="stylesheet" href="./src/styles/css/main.min.css">
+
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="player">
+      <video controls>
+        <source src="src\vidio\Albert Park.webm" type="video/webm">
+        <source src="src\vidio\Albert Park.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="controls">
+      <button class="play fas fa-play" aria-label="play pause toggle"></button>
+      <button class="stop fas fa-stop" aria-label="stop"></button>
+      <div class="timer">
+        <div></div>
+        <span aria-label="timer">00:00</span>
+      </div>
+      <button class="rwd fas fa-backward" aria-label="rewind"></button>
+      <button class="fwd fas fa-forward" aria-label="fast forward"></button>
+    </div>
+  </div>
+
+  <script src="https://kit.fontawesome.com/4376e1be36.js" crossorigin="anonymous"></script>
+  <script src="./src/index.js"></script>
+</body>
+
+</html>
