@@ -11,4 +11,4 @@
 * scss
 
 ### Ready-made solution:
- https://sergey-shar.github.io/custom-player/
+https://sergey-shar.github.io/Custom-video-player/
