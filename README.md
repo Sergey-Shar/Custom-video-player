@@ -232,6 +232,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+https://sergey-shar.github.io/Custom-video-player/
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
